@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Всеукраинская платформа"
 categories: global
 published: true
@@ -32,7 +32,7 @@ published: true
  
 
 
-  [1]: http://uaplatform.org/global/2013/12/01/east_west.html
+  [1]: /global/2013/12/01/east_west.html
   [2]: #
   [3]: #
   [4]: #
