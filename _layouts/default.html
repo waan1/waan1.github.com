@@ -21,23 +21,7 @@
             <a class="extra" href="/">home</a>
           </div>
 
-    <nav role="navigation">
-          <ul>
-                  <li><a href="/">Home</a></li>
-                  <li><a href="/portfolio/">Portfolio</a></li>
-                  <li><a href="/about">About</a></li>
-                  <li><a href="/contact">Contact</a></li>
-          </ul>
-    </nav>
-    
-    
-    <ul>
-        {% for link in page.navigation %}
-            <li {% if page.url == link.url %}class="current"{% endif %}>
-                   <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a></li>
-                       {% endfor %}
-    </ul>
-                                          
+                                      
           {{ content }}
 
           <div class="footer">
