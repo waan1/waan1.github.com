@@ -1,0 +1,9 @@
+name: Jekyll Site Example
+markdown: redcarpet
+pygments: true
+navigation:
+- text: Home
+  url: /index.html
+- text: Paul
+  title: fffffff
+  url: /travel.html
