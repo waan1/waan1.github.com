@@ -55,7 +55,7 @@ published: true
 > наш.
 
 **Ответ:** ***[Igor Makarenko][3]***<br>
-Спорить можно с людьми, которые знают обе сточки зрения из первых уст. Предлагаю вам для начала ознакомиться с другой точкой зрения.<br>
+Спорить можно с людьми, которые знают обе точки зрения из первых уст. Предлагаю вам для начала ознакомиться с другой точкой зрения.<br>
 [https://www.youtube.com/watch?v=De2mU1gJeyU][4]<br>
 [http://gudriksson.livejournal.com/344136.html][5]<br>
 [http://www.youtube.com/watch?v=wV9td9DaOlE&desktop_uri=%2Fwatch%3Fv%3DwV9td9DaOlE&app=desktop][6]<br>
