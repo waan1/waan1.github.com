@@ -134,6 +134,22 @@ a:visited { color: #a0a; }
   padding: 0 .4em;
 }
 
+.post hr {
+font-size: 80%;
+color: #666;
+border-top: 2px solid #eee;
+margin-top: 1em;
+overflow: hidden;
+}
+
+.post
+blockquote{
+background-color: rgba(247, 247, 248, 1);
+padding:1px 20px;
+border-left:10px solid rgba(213, 213, 213, 0.94)
+}
+blockquote p{font-size:13px;line-height:1.25}
+
 .post ul, .post ol {
   margin-left: 1.35em;
 }
